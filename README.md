@@ -1,5 +1,7 @@
 # XMLKit
 
+[<img src="https://github.com/thms-rmb/xmlkit/workflows/build/badge.svg">](https://github.com/thms-rmb/xmlkit/actions?query=workflow%3Abuild)
+
 Simple wrapper for launching Saxon classes Gizmo, Query and Transform.
 
 Example usage:
