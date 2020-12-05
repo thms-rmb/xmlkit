@@ -1,8 +1,6 @@
 package no.ramsen;
 
 import net.sf.saxon.Gizmo;
-import net.sf.saxon.Query;
-import net.sf.saxon.Transform;
 
 import java.util.Arrays;
 import java.util.function.Consumer;
