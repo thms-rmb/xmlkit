@@ -7,6 +7,7 @@ import org.expath.httpclient.saxon.SendRequestFunction;
 public class Query extends net.sf.saxon.Query {
     @Override
     protected void applyLocalOptions(CommandLineOptions options, Configuration config) {
+        config.setProcessor(this.processor);
         config.registerExtensionFunction(new SendRequestFunction());
         super.applyLocalOptions(options, config);
     }
