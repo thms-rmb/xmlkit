@@ -6,7 +6,7 @@
 
   <groupId>no.ramsen</groupId>
   <artifactId>xmlkit</artifactId>
-  <version>0.1</version>
+  <version>0.2</version>
 
   <name>xmlkit</name>
   <url>https://github.com/thms-rmb/xmlkit</url>
